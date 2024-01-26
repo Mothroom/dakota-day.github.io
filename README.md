@@ -1,1 +1,14 @@
 # dakota-day.github.io
+
+## First Wevsite Project
+1) Only need to complete TODOS 1-10
+2) Preview your index.html with live server and send instructor a screenshot to get credit.
+
+## Portfolio Page
+1) Only need to complete TODOS 1-5
+2) Preview your portfolio.html with live server and send instructor a screenshot to get credit.
+
+## Git commands
+1) In terminal, type => git add -A
+2) In terminal, type => git commit -m "description"
+3) In terminal, thpe => git push

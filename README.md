@@ -1,6 +1,6 @@
 # dakota-day.github.io
 
-## First Wevsite Project
+## First Website Project
 1) Only need to complete TODOS 1-10
 2) Preview your index.html with live server and send instructor a screenshot to get credit.
 
